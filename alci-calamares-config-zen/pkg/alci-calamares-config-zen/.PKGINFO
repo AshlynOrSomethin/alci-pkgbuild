@@ -6,7 +6,7 @@ xdata = pkgtype=pkg
 pkgver = 24.12.2-01
 pkgdesc = calamares for ALCI
 url = https://github.com/AshlynOrSomethin
-builddate = 1745739168
+builddate = 1745739436
 packager = Unknown Packager
 size = 20588709
 arch = any
