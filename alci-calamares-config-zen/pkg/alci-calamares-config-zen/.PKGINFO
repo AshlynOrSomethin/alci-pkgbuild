@@ -6,9 +6,9 @@ xdata = pkgtype=pkg
 pkgver = 24.12.2-01
 pkgdesc = calamares for ALCI
 url = https://github.com/AshlynOrSomethin
-builddate = 1745739436
+builddate = 1746986835
 packager = Unknown Packager
-size = 20588709
+size = 14957267
 arch = any
 license = GPL3
 conflict = alci-calamares-config
